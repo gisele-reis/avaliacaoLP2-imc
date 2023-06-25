@@ -1,0 +1,19 @@
+#button, #btnPesquisar, #btnAtualizar, #btnExcluir, #btnRelatorio{
+    -fx-background-color:   #727D90;
+    -fx-text-fill: #f1f1f1;
+    -fx-background-radius: 10px;
+}
+
+#button:hover{
+    -fx-background-color: #B7AB9D;
+    -fx-text-fill: #EEE6B8;
+}
+
+#btnNavBar:hover{
+    -fx-border-color: #C59FAE;
+}
+
+#btnPesquisar:hover, #btnAtualizar:hover, #btnExcluir:hover, #btnRelatorio:hover{
+    -fx-background-color: #B7AB9D;
+}
+

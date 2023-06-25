@@ -1,0 +1,36 @@
+Relatorio do(a) Aluno(a) aluno 2
+-----------------------------
+Data do Relatório: 13/06/2023
+Nome: aluno 2
+CPF: 1518484652
+IMC: 22.22
+Status: Peso Adequado
+=============================
+
+Relatorio do(a) Aluno(a) Mateus
+-----------------------------
+Data do Relatório: 13/06/2023
+Nome: Mateus
+CPF: 5487652561
+IMC: 23.89
+Status: Peso Adequado
+=============================
+
+Relatorio do(a) Aluno(a) Melissa
+-----------------------------
+Data do Relatório: 16/06/2023
+Nome: Melissa
+CPF: 87854548481
+IMC: 28.3
+Status: Acima do peso
+=============================
+
+Relatorio do(a) Aluno(a) Jeferson Reis
+-----------------------------
+Data do Relatório: 16/06/2023
+Nome: Jeferson Reis
+CPF: 25115484508
+IMC: 30.42
+Status: Obesidade Grau I
+=============================
+
